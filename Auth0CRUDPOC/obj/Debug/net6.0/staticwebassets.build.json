@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s0OK5YMWHlHO3ldA8OUYZSUtBW/0KnaewxoabgX8uaA=",
+  "Source": "Auth0CRUDPOC",
+  "BasePath": "_content/Auth0CRUDPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
